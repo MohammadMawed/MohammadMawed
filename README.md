@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohammadMawed
-- 👀 I’m interested in Android Studio & Machine Learing
+- 👀 I’m interested in Android Development & Machine Learning
 - 🌱 I’m currently learning Clean Architecture in Android Developoment
 - 📫 How to reach me mohammadmawed@protonmail.com
   
