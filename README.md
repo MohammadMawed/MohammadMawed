@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MohammadMawed
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Android Studio & Machine Learing
+- 🌱 I’m currently learning Clean Architecture in Android Developoment
 - 📫 How to reach me mohammadmawed@protonmail.com
   
 <!---
